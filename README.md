@@ -1,5 +1,6 @@
 # h2plasticity
-Implementation of the h2 plasticity model for von Mises materials from [1]. This code has been previously used in [2] to demonstrate the use of Thermodynamics-based Artificial Neural Networks (TANN).
+Implementation of the h2 plasticity model proposed in [1] of von Mises type: one- and three-dimensional.
+This code has been previously used in [2] to demonstrate the use of Thermodynamics-based Artificial Neural Networks (TANN).
 
 If you use this code, please cite the related papers:
 
